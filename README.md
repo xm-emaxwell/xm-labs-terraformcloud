@@ -94,7 +94,7 @@ When a Terraform run notification is generated it is sent to xMatters to excute 
 2. To get notifications you will need to either
     - Start a run with a configuration error
     - Start a run with a policy violation
-    - Start a that as an approval step
+    - Start a run that as an approval step
 
 ---
 ## Troubleshooting
